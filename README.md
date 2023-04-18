@@ -1,2 +1,2 @@
-# loginpy
-Sistema de Login orientado a Microserviços
+# Sistema de Login e autenticação
+Sistema de Login e autenticação em Python orientado a Microserviços
